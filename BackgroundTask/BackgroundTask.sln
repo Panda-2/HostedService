@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundTask.API", "BackgroundTask.API\BackgroundTask.API.csproj", "{58DF5C86-8B3F-4429-BB2D-AE05F3041FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundTask.Application", "BackgroundTask.Application\BackgroundTask.Application.csproj", "{D1E11FB2-B982-47C4-8010-4C6B4E9B264E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DF5C86-8B3F-4429-BB2D-AE05F3041FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DF5C86-8B3F-4429-BB2D-AE05F3041FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DF5C86-8B3F-4429-BB2D-AE05F3041FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DF5C86-8B3F-4429-BB2D-AE05F3041FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E11FB2-B982-47C4-8010-4C6B4E9B264E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E11FB2-B982-47C4-8010-4C6B4E9B264E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E11FB2-B982-47C4-8010-4C6B4E9B264E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E11FB2-B982-47C4-8010-4C6B4E9B264E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41AC0443-73A7-458C-B3B7-0099B0D5AD29}
+	EndGlobalSection
+EndGlobal
